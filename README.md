@@ -1,4 +1,4 @@
-#<h1 align="center">Responsive Portfolio
+<h1 align="center">Responsive Portfolio
 
 - Responsive Personal Portfolio Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
