@@ -19,5 +19,5 @@
   <img src="images/Screenshot 2023-07-21 212031.png" width="400" height="400">
 </div>
 <div>
-  <img src="images/Screenshot 2023-07-21 212031.png" width="400" height="400">
+  <img src="images/Screenshot 2023-07-21 212106.png" width="400" height="400">
 </div>
